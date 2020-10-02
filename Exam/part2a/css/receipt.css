@@ -1,0 +1,85 @@
+html, body{
+	
+	height: 100vh;
+	
+}
+
+.dess{
+	width: 380px;
+	height: 530px;
+	background-color: #A8CAEC;
+	border-radius: 30px;
+	position: relative;
+	top: 50%;
+	left: 50%;
+	margin-top: -350px;
+	margin-left: -180px;
+	box-shadow: 14px 14px 22px;
+	padding: 40px;
+	padding-bottom: 30px;
+
+	
+}
+
+.head1{
+	text-transform: uppercase;
+	color: #272727;
+	letter-spacing: 10px;
+	font-size: 1.8em;
+	text-align: center;
+}
+
+  .date, .invoice, .id, .amnt, .to, .Cname2, .Address, .Phone{
+	width: 150%;
+	padding-top: 10px; 
+	
+}
+input {
+	width: 200px;
+	text-align: center;
+	font-style: italic;
+}
+
+label{
+	width: 130px;
+	display: inline-block;
+	text-align: left;
+}
+
+
+.Cname{
+	color: #616466;
+}
+
+.head2{
+	color: black;
+	text-align: center;
+}
+
+ 
+
+.header{
+	border-bottom: 1px solid black;
+
+}
+
+.buttn1, .buttn2{
+	padding: 40px  60px;
+	display: inline-block;
+}
+
+.footer{
+	text-align: center;
+  font-family: 'Arial';
+  font-size: 13px;
+	margin-top: 40px;
+	color: #616466;
+	
+}
+
+select.cars{
+	width: 55%;
+	height: 30px;
+	margin-top: 10px;
+	padding-top: 10px; 
+}
