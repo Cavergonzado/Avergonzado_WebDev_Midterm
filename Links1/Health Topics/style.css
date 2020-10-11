@@ -1,0 +1,60 @@
+body{
+	padding-bottom: 70px;
+	background-color: #100703;
+}
+
+img{
+	width: 400px;
+	
+}
+
+.card{
+	margin-top: 20px;
+}
+
+#first{
+	background-color: #EC8B92;
+}
+
+#sec{
+	background-color: #A5C86B;
+}
+
+#third{
+	background-color: #6BC7C8;
+}
+
+#fourth{
+	background-color: #B96BC8;
+}
+
+h2 {
+	text-align: center;
+	color: white;
+
+}
+
+.bottom, .symp{
+	color: #383333;
+	text-align: justify;
+	padding-left: 70px; 
+	padding-right: 50px;
+	padding-bottom: 50px;
+	padding-top: 50px;
+	font-size: 1.5em;
+	background-color: #D5CECE;
+	text-indent: 2px;
+
+}
+
+.symps{
+	color: #F3C6B3;
+	font-size: 1.3em;
+	text-align: justify;
+	text-align: center;
+}
+
+h5{
+	color: #F9F0F0;
+	font-size: 1.5em;
+}
